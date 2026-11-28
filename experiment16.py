@@ -1,4 +1,4 @@
-
+#24-11-2026
 from itertools import groupby
 
 customers = [
